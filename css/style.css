@@ -1,0 +1,14 @@
+.form-control {
+  margin-bottom: 20px;
+}
+#formView {
+  display: none;
+}
+
+#editView {
+  display: none;
+}
+
+#editFormView {
+  display: none;
+}
